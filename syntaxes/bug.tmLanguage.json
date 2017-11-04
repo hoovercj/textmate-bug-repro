@@ -1,0 +1,12 @@
+{
+	"$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+	"name": "Bug Repro Grammar",
+	"scopeName": "bug",
+	"uuid": "a599d9d4-b796-414f-9e9c-986b6101faee",
+	"patterns": [
+		{
+			"name": "punctuation",
+			"match": ";"
+		}
+	]
+}
